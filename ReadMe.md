@@ -7,8 +7,6 @@ This is a python driver for the PCA9635 16-channel, 8-bit resolution LED driver.
 Build according to this datasheet: 
 https://www.nxp.com/docs/en/data-sheet/PCA9635.pdf
 
-_This code is completely untested!_
-
 
 ## Requirements
 
