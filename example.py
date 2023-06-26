@@ -20,8 +20,8 @@ pca.set_mode(PCA9635.MODE2, 0b00010100)
 print("New mode 2 configuration set.")
 
 # Read the mode 1 configuration
-mode1_config = pca.read_mode(PCA9635.MODE2)
-print("Mode 2 configuration:", mode1_config)
+mode2_config = pca.read_mode(PCA9635.MODE2)
+print("Mode 2 configuration:", mode2_config)
 
 
 # Set a new driver mode for channels
